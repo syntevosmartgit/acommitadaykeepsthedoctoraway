@@ -2,6 +2,7 @@
 
 name: "Create an empty Issue"
 on:
+  push:
   schedule:
   - cron: "0 0 * * *"
 
