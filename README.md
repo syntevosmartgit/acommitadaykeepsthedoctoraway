@@ -8,8 +8,6 @@ Feel free to fork this - but you need to set 3 Repository Level Secrets:
 
 acommitadaykeepsthedoctoraway/settings/secrets/actions
 
-!(images/secrets.png)
-
 - GITEMAIL
 - GITNAME
 - PAT (a classic Token)
